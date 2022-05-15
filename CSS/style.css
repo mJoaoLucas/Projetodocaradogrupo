@@ -35,6 +35,15 @@ main img {
     min-width: 300px;
     margin: auto;
 }
+.config1 {
+    padding-top:0px ;
+}
+#zumbadefinition {
+    padding: 30px 0px 30px 0px;
+}
+main p {
+    padding: 30px 0px 25px 0px;
+}
 #titlepószumbaimg {
     margin-top: 70px;
 }
@@ -48,11 +57,16 @@ footer {
     
     margin: auto;
     background-image: linear-gradient(to top, var(--cor2), var(--cor1) );
-    box-shadow: 1px 2px 2px 1px rgba(0, 0, 0, 0.082);
+  
 }
 footer > p {
     text-align: center;
     margin: 20px 0px 0px 0px;
     padding: 20px;
    
+}
+ul {
+    list-style-position: inside;
+    padding: 30px 0px 30px 0px;
+    line-height: 1.9em;
 }
