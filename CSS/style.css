@@ -25,6 +25,8 @@ main {
 }
 p {
     text-align: justify;
+    line-height: 1.5em;
+    text-indent: 30px;
 }
 
 main img {
